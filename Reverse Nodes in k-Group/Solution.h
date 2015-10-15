@@ -56,7 +56,7 @@ public:
             return head;
     }
     
-    //ÄæÐò¾ÉÁ´±í
+    //é€†åºæ—§é“¾è¡¨
     void reverseList(ListNode* pHead, ListNode* pTail)
     {
         ListNode* next = pHead->next;
